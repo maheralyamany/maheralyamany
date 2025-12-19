@@ -46,7 +46,7 @@ I'm a passionate software developer specializing in **web and desktop applicatio
 
 ## 📫 Contact Me
 
-- 📧 Email: `your.email@example.com`
+- 📧 Email: maheralyamany4@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/maheralyamany](https://www.linkedin.com/in/maheralyamany)
 - 🐙 GitHub: [github.com/maheralyamany](https://github.com/maheralyamany)
 - 
