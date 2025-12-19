@@ -30,6 +30,8 @@ I'm a passionate software developer specializing in **web and desktop applicatio
 | Xamarin Android Data Loader | Load large SQL Server data efficiently via ASMX Web Service | [GitHub](#) |
 | ASP.NET MVC Security Filter | Detect & prevent XSS and SQL Injection attacks | [GitHub](#) |
 | GitHub Workflows for Laravel Deploy | Automated deployment using GitHub Actions | [GitHub](#) |
+| Laravel Advanced Migration | Automates conversion of SQLite/MySQL schemas into Laravel migrations | [GitHub](https://github.com/maheralyamany/laravel-advanced-migration) |
+| Laravel Model Generator | Automatically generates Laravel Eloquent models from existing databases Detects relationships and generates essential model properties Reduces boilerplate code and accelerates backend development | [GitHub](https://github.com/maheralyamany/laravel-model-generator) |
 
 ---
 
@@ -47,7 +49,8 @@ I'm a passionate software developer specializing in **web and desktop applicatio
 - 📧 Email: `your.email@example.com`
 - 🔗 LinkedIn: [linkedin.com/in/maheralyamany](https://www.linkedin.com/in/maheralyamany)
 - 🐙 GitHub: [github.com/maheralyamany](https://github.com/maheralyamany)
-
+- 
+💼 Open to Remote and On-Site opportunities as a Senior Laravel /.NET (MVC & Core) / Backend Developer.
 ---
 
 ## 🌟 Interests
