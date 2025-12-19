@@ -25,7 +25,10 @@ I'm a passionate software developer specializing in **web and desktop applicatio
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Dynamic Inventory Conversion System | Multi-level inventory management with automatic unit conversion | [GitHub](#) |
+| National Logistics Management Information System (LMIS) | •A national-level logistics management system for maternal and newborn health. •	Built using Laravel, MySQL, Livewire, and JavaScript to manage medical supplies, equipment, and infrastructure. •	Improved operational efficiency and data accuracy for healthcare supply management. | [GitHub](#) |
+| OMaxProERP Enterprise Accounting & Management System | A comprehensive accounting and enterprise management system (OMaxProERP) using C# (WinForms) with DevExpress 21 for advanced UI and reporting, and SQL Server 2019 as the database engine, within .NET Framework 4.8 and a layered architecture design. | [GitHub](#) |
+| Midwives Monitoring System | A field data tracking platform for midwives to log cases, monitor performance, and Generate automated reports | [GitHub](#) |
+| Software License Management & Generation System | A centralized system to automate the creation and distribution of software licenses | [GitHub](#) |
 | Maintenance Mode Admin Tool | Manage maintenance mode for WinForms applications | [GitHub](#) |
 | Xamarin Android Data Loader | Load large SQL Server data efficiently via ASMX Web Service | [GitHub](#) |
 | ASP.NET MVC Security Filter | Detect & prevent XSS and SQL Injection attacks | [GitHub](#) |
